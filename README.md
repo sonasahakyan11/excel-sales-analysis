@@ -20,3 +20,7 @@ Created an interactive sales report that updates total and average sales based o
 
 ---
 This project is continuously improving as I learn more Excel skills.
+
+## Preview
+<img width="824" height="302" alt="image" src="https://github.com/user-attachments/assets/334a1d88-fc07-419e-a8f0-d673a3e8970e" />
+
