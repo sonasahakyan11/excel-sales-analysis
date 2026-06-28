@@ -41,4 +41,12 @@ This project is continuously improving as I learn more Excel skills.
 ## Preview
 <img width="1390" height="337" alt="image" src="https://github.com/user-attachments/assets/d2ca29e6-7712-450a-a389-2ed08ddd2dae" />
 
+## Update (Version 4 – Pivot Tables)
+
+- Added Pivot Tables for data summarization
+- Created reports for Sales by Department and Sales by Department and Name
+- Improved data analysis capabilities
+
+## Preview
+<img width="735" height="322" alt="image" src="https://github.com/user-attachments/assets/628fd575-0cfb-4fe8-9702-0d1c6f33f979" />
 
