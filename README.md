@@ -31,3 +31,14 @@ This project is continuously improving as I learn more Excel skills.
 ## Preview
 <img width="998" height="357" alt="image" src="https://github.com/user-attachments/assets/f9785aa2-a577-4fb6-b2a3-b9fcb84b22bd" />
 
+
+## Update (Version 3 – XLOOKUP)
+
+- Added XLOOKUP for cleaner and more flexible data lookup
+- Used "Not Found" handling for missing values
+- Improved formula readability and stabilit
+
+## Preview
+<img width="1390" height="337" alt="image" src="https://github.com/user-attachments/assets/d2ca29e6-7712-450a-a389-2ed08ddd2dae" />
+
+
