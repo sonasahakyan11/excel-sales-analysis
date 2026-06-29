@@ -50,3 +50,14 @@ This project is continuously improving as I learn more Excel skills.
 ## Preview
 <img width="735" height="322" alt="image" src="https://github.com/user-attachments/assets/628fd575-0cfb-4fe8-9702-0d1c6f33f979" />
 
+## Update (Version 5 – Advanced Pivot Tables)
+
+- Added sorting (highest to lowest sales)
+- Created hierarchical Pivot Table (Department → Name)
+- Added filtering by Month
+- Improved data analysis and report structure
+
+## Preview
+<img width="696" height="427" alt="image" src="https://github.com/user-attachments/assets/6a554e8d-3bce-4c54-82ad-c95b02b49ad8" />
+
+
