@@ -70,4 +70,52 @@ This project is continuously improving as I learn more Excel skills.
 ## Preview
 <img width="807" height="181" alt="image" src="https://github.com/user-attachments/assets/4c4dc91c-68ba-4753-83fa-c1596e20d787" />
 
+# Excel Sales Analysis Dashboard
 
+This project demonstrates intermediate Excel skills by building a complete data analysis dashboard.
+
+---
+
+## Skills Used
+- Excel Tables
+- IF function
+- XLOOKUP (modern data lookup)
+- Pivot Tables
+- Conditional Formatting
+- Charts / Dashboard creation
+
+---
+
+## Project Description
+The project analyzes sales data by employee and department.
+
+It includes:
+- Dynamic calculations (Total & Average using SUBTOTAL)
+- Automated department lookup using XLOOKUP
+- Pivot Tables for data summarization
+- Conditional formatting for insights
+- Charts for visual analysis
+
+---
+
+## Dashboard Features
+- Sales by Employee (column chart)
+- Sales by Department (column chart)
+- Highlighting low performance and missing values
+- Interactive Pivot Tables
+
+---
+
+## Files
+- sales-analysis-final.xlsx
+
+---
+
+## Notes
+This project was built step-by-step while learning Excel fundamentals and advanced features.
+
+It demonstrates the ability to clean, analyze, and visualize data in a structured way.
+``
+
+## Preview
+<img width="1340" height="451" alt="image" src="https://github.com/user-attachments/assets/385dfa77-3c72-426a-8737-5d4bc5c8056e" />
