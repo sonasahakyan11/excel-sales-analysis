@@ -60,4 +60,14 @@ This project is continuously improving as I learn more Excel skills.
 ## Preview
 <img width="696" height="427" alt="image" src="https://github.com/user-attachments/assets/6a554e8d-3bce-4c54-82ad-c95b02b49ad8" />
 
+## Update (Version 6 – Conditional Formatting)
+
+- Added conditional formatting to highlight key values
+- Highlighted low performance 
+- Improved visual clarity of the dashboard
+- Enhanced readability of the report
+
+## Preview
+<img width="807" height="181" alt="image" src="https://github.com/user-attachments/assets/4c4dc91c-68ba-4753-83fa-c1596e20d787" />
+
 
